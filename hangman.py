@@ -1,4 +1,4 @@
-# Simple Hangman Game
+#  Hangman Game
 
 import random
 
